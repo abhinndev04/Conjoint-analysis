@@ -1,0 +1,65 @@
+brand,startup,monthly,service,retail,apple,samsung,google,ranking
+"""AT&T""","""$100""","""$100""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus NO""",11
+"""Verizon""","""$300""","""$100""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus NO""",12
+"""US Cellular""","""$400""","""$200""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus NO""",9
+"""Verizon""","""$400""","""$400""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus NO""",2
+"""Verizon""","""$200""","""$300""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus YES""",8
+"""Verizon""","""$100""","""$200""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus YES""",13
+"""US Cellular""","""$300""","""$300""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus NO""",7
+"""AT&T""","""$400""","""$300""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus YES""",4
+"""AT&T""","""$200""","""$400""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus NO""",5
+"""T-Mobile""","""$400""","""$100""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus YES""",16
+"""US Cellular""","""$100""","""$400""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus YES""",3
+"""T-Mobile""","""$200""","""$200""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus NO""",6
+"""T-Mobile""","""$100""","""$300""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus NO""",10
+"""US Cellular""","""$200""","""$100""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus YES""",15
+"""T-Mobile""","""$300""","""$400""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus YES""",1
+"""AT&T""","""$300""","""$200""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus YES""",14
+"""AT&T""","""$100""","""$100""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus NO""",11
+"""Verizon""","""$300""","""$100""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus NO""",12
+"""US Cellular""","""$400""","""$200""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus NO""",9
+"""Verizon""","""$400""","""$400""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus NO""",2
+"""Verizon""","""$200""","""$300""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus YES""",8
+"""Verizon""","""$100""","""$200""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus YES""",13
+"""US Cellular""","""$300""","""$300""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus NO""",7
+"""AT&T""","""$400""","""$300""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus YES""",4
+"""AT&T""","""$200""","""$400""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus NO""",5
+"""T-Mobile""","""$400""","""$100""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus YES""",16
+"""US Cellular""","""$100""","""$400""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus YES""",3
+"""T-Mobile""","""$200""","""$200""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus NO""",6
+"""T-Mobile""","""$100""","""$300""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus NO""",10
+"""US Cellular""","""$200""","""$100""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus YES""",15
+"""T-Mobile""","""$300""","""$400""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus YES""",1
+"""AT&T""","""$300""","""$200""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus YES""",14
+"""AT&T""","""$100""","""$100""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus NO""",2
+"""Verizon""","""$300""","""$100""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus NO""",8
+"""US Cellular""","""$400""","""$200""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus NO""",4
+"""Verizon""","""$400""","""$400""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus NO""",1
+"""Verizon""","""$200""","""$300""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus YES""",7
+"""Verizon""","""$100""","""$200""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus YES""",14
+"""US Cellular""","""$300""","""$300""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus NO""",16
+"""AT&T""","""$400""","""$300""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus YES""",5
+"""AT&T""","""$200""","""$400""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus NO""",9
+"""T-Mobile""","""$400""","""$100""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus YES""",15
+"""US Cellular""","""$100""","""$400""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus YES""",10
+"""T-Mobile""","""$200""","""$200""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus NO""",6
+"""T-Mobile""","""$100""","""$300""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus NO""",11
+"""US Cellular""","""$200""","""$100""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus YES""",13
+"""T-Mobile""","""$300""","""$400""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus YES""",3
+"""AT&T""","""$300""","""$200""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus YES""",12
+"""AT&T""","""$100""","""$100""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus NO""",3
+"""Verizon""","""$300""","""$100""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus NO""",15
+"""US Cellular""","""$400""","""$200""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus NO""",12
+"""Verizon""","""$400""","""$400""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus NO""",6
+"""Verizon""","""$200""","""$300""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung YES""","""Nexus YES""",2
+"""Verizon""","""$100""","""$200""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus YES""",8
+"""US Cellular""","""$300""","""$300""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung NO""","""Nexus NO""",7
+"""AT&T""","""$400""","""$300""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus YES""",10
+"""AT&T""","""$200""","""$400""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus NO""",1
+"""T-Mobile""","""$400""","""$100""","""4G YES""","""Retail NO""","""Apple YES""","""Samsung YES""","""Nexus YES""",13
+"""US Cellular""","""$100""","""$400""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung YES""","""Nexus YES""",14
+"""T-Mobile""","""$200""","""$200""","""4G NO""","""Retail YES""","""Apple YES""","""Samsung NO""","""Nexus NO""",16
+"""T-Mobile""","""$100""","""$300""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus NO""",4
+"""US Cellular""","""$200""","""$100""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung NO""","""Nexus YES""",11
+"""T-Mobile""","""$300""","""$400""","""4G NO""","""Retail NO""","""Apple NO""","""Samsung NO""","""Nexus YES""",5
+"""AT&T""","""$300""","""$200""","""4G YES""","""Retail YES""","""Apple NO""","""Samsung YES""","""Nexus YES""",9
